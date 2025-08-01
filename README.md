@@ -1,7 +1,7 @@
 ### 📚 **Desenvolvimento de Jogos com Unreal Engine**
 
 * **Professor(a):** [André Flores dos Santos]
-* **Código da Disciplina:** [G01P2]
+* **Código da Disciplina:** [G04E2]
 * **Horário:** [20:20 - 22:00]
 ---
 
